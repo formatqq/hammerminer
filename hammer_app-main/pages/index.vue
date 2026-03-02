@@ -1,4 +1,3 @@
-
 <template>
   <div class="common-container">
     <swiper
@@ -10,6 +9,13 @@
       :pagination="{ clickable: true }"
       @slideChange="slideChange"
     >
+      <swiper-slide>
+        <section
+          class="banner"
+          id="banner05"
+        >
+        </section>
+      </swiper-slide>
       <swiper-slide>
         <section
           class="banner"
@@ -222,7 +228,11 @@ section {
   width: 100vw;
   height: 36vw;
   color: #fff;
-
+  &#banner05 {
+    background: #1b1b1b url('/img/banner05.jpg');
+    background-size: cover;
+  }
+  
   &#banner01 {
     background: #1b1b1b url('/img/banner-1.jpg');
     background-size: cover;
