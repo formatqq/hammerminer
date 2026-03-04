@@ -199,7 +199,7 @@ const shopsList = ref([
   },
   {
     name: 'plebSource',
-    link: '//onestopmining.shop/',
+    link: '//plebsource.com/',
     image: '/img/plebSource.png',
   },
 ])
