@@ -120,23 +120,6 @@ export default {
 		download02: {
 			name: 'D10+ Firmware Upgrade',
 			description: 'Hammer D10+固件升级包',
-		},
-		download03: {
-			name: 'D10+ SD Card Firmware',
-			description: 'Hammer D10+ SD卡刷固件',
-		},
-		download04: {
-			name: 'Release-D10',
-			description: '固件升级后可自动适应芯片的频率性能进行挖矿'
-		},
-		download05: {
-			name: 'D10+ Firmware Upgrade',
-			description: '修复配置出现被清空的bug'
-		},
-		download06: {
-			name: 'D12+ Firmware Upgrade',
-			description: 'Hammer D12固件升级包11'
-		}
 	},
 	repair: {
 		contact: '收货人',
