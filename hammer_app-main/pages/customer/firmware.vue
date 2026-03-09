@@ -101,27 +101,6 @@ const tableData = [
     link: '/file/upgrade_altcoin_ltc_D10-20230528.tar.gz',
   },
   {
-    name: i18n.t('firmware.download01.name'),
-    description: i18n.t('firmware.download01.description'),
-    size: '1.5MB',
-    time: '2022-12-29',
-    link: locale.value === 'cn' ? '/file/D10+_User_Guide.docx' : '/file/Manual Guide230506.docx',
-  },
-  {
-    name: i18n.t('firmware.download02.name'),
-    description: i18n.t('firmware.download02.description'),
-    size: '19MB',
-    time: '2022-12-29',
-    link: '/file/D10+_Firmware_upgrade_altcoin_ltc-A2-108_rootfs-D10_20221229.tar.gz',
-  },
-  {
-    name: i18n.t('firmware.download02.name'),
-    description: i18n.t('firmware.download02.description'),
-    size: '20MB',
-    time: '2023-04-03',
-    link: '/file/upgrade_altcoin_ltc_D10.tar.gz',
-  },
-  {
     name: i18n.t('firmware.download03.name'),
     description: i18n.t('firmware.download03.description'),
     size: '37.8MB',
