@@ -23,29 +23,7 @@
         >
         </section>
       </swiper-slide>
-       <swiper-slide>
-        <section
-          class="banner"
-          id="banner04"
-        >
-        </section>
-      </swiper-slide>
-      
-      <swiper-slide>
-        <section
-          class="banner"
-          id="banner03"
-        >
-        </section>
-      </swiper-slide>
-
-      <swiper-slide>
-        <section
-          class="banner"
-          id="banner02"
-        >
-        </section>
-      </swiper-slide>
+    
     </swiper>
     <section class="params-seciton">
       <div class="title">
@@ -235,21 +213,6 @@ section {
   
   &#banner01 {
     background: #1b1b1b url('/img/banner-1.jpg');
-    background-size: cover;
-  }
-  
- &#banner04 {
-    background: url('/img/banner4-bg.png');
-    background-size: cover;
-  }
-  
-  &#banner03 {
-    background: url('/img/banner3-bg.png');
-    background-size: cover;
-  }
-
-  &#banner02 {
-    background: url('/img/banner2-bg.png');
     background-size: cover;
   }
 
