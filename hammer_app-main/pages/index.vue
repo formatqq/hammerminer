@@ -12,17 +12,28 @@
       <swiper-slide>
         <section
           class="banner"
-          id="banner05"
-        >
-        </section>
-      </swiper-slide>
-      <swiper-slide>
-        <section
-          class="banner"
           id="banner01"
         >
         </section>
       </swiper-slide>
+       <swiper-slide>
+        <section
+          class="banner"
+          id="banner1-1"
+        >
+        </section>
+      </swiper-slide>
+      
+      <swiper-slide>
+        <section
+          class="banner"
+          id="banner1-2"
+        >
+        </section>
+      </swiper-slide>
+
+      
+      
     
     </swiper>
     <section class="params-seciton">
@@ -206,16 +217,24 @@ section {
   width: 100vw;
   height: 36vw;
   color: #fff;
-  &#banner05 {
-    background: #1b1b1b url('/img/banner05.jpg');
-    background-size: cover;
-  }
-  
+
   &#banner01 {
     background: #1b1b1b url('/img/banner-1.jpg');
     background-size: cover;
   }
 
+  &#banner1-1 {
+    background: #1b1b1b url('/img/banner1-1.jpg');
+    background-size: cover;
+  }
+    &#banner1-2 {
+    background: #1b1b1b url('/img/banner1-2.jpg');
+    background-size: cover;
+  }
+  
+  
+
+  
   .miner {
     width: 20vw;
   }
