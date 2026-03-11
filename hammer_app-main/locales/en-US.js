@@ -111,27 +111,7 @@ export default {
     download01: {
       name: 'D10+ User Guide',
       description: 'Hammer D10+ User Guide， how to set-up Hammer D10+ by your own.',
-    },
-    download02: {
-      name: 'D10+ Firmware Upgrade',
-      description: 'Hammer D10+ Firmware Upgrade',
-    },
-    download03: {
-      name: 'D10+ SD Card Firmware',
-      description: 'Hammer D10+ SD Card Firmware',
-    },
-    download04: {
-      name: 'Release-D10',
-      description: 'Chip will operate in the better mode to mine LTC after firmware updated!',
-    },
-    download05: {
-      name: 'D10+ Firmware Upgrade',
-      description: 'Fix the bug that causes configuration to be cleared',
-    },
-    download06: {
-      name: 'D12 Firmware Upgrade',
-      description: 'Hammer D12 Firmware Upgrade',
-    },
+    }
   },
   repair: {
     contact: 'Contact',
