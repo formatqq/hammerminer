@@ -155,7 +155,7 @@ export default {
     content1:
       'A 180-days warranty is provided starting from the shipping date.<br/>The warranty only applies to the original purchaser who purchased the machine directly from Hammerminer. Once the miner is resold, warranty coverage becomes the responsibility of the re-seller.',
     content2:
-      'The following events will void the warranty:<br/>1, Customer removes/replaces any components by himself without receiving permission from hammerminer team first;<br/>2, Damage caused by poor power supply, lightning or voltage surges;<br/>3, Burnt parts on hash boards or chips;<br/>4,Miner/boards/components damage due to water immersion or corrosion due to wet environment.<br/>5, Over voltage.',
-    content3: 'If these happen, a charged repair service will be provided.',
+      '',
+    content3: '',
   },
 }
