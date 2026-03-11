@@ -14,7 +14,7 @@
           >{{ $t('firmware.card') }}</a
         >
         <a
-          :href="locale === 'en' ?"
+          :href="locale === 'en' ?'/file/' : '/file/'"
           class="d-flex-center"
           >{{ $t('firmware.guide') }}</a
         >
