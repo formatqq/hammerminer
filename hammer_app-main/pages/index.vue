@@ -110,11 +110,15 @@ const paramsList = computed(() => {
         },
         {
           id: '02',
-          paramsNum: 8,
+          paramsNum: 5,
         },
         {
           id: '03',
-          paramsNum: 5,
+          paramsNum: 4,
+        },
+           {
+          id: '04',
+          paramsNum: 7,
         },
       ]
     case 1:
