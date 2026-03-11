@@ -119,22 +119,6 @@ export default {
     download01: {
       name: 'D10+руководство пользователя',
       description: 'Hammer D10+Руководство по настройке пользователя. Установить от 0Hammer D10+。'
-    },
-    download02: {
-      name: 'D10+ Firmware Upgrade',
-      description: 'Hammer D10+Пакет обновления прошивки'
-    },
-    download03: {
-      name: 'D10+ SD Card Firmware',
-      description: 'Hammer D10+ SDпрошивка карты памяти'
-    },
-    download04: {
-			name: 'Release-D10',
-			description: 'После обновления прошивки майнер может автоматически адаптироваться к частотным характеристикам чипа для майнинга.'
-   },
-   download05: {
-      name: 'D10+руководство пользователя',
-      description: 'Исправить ошибку, приводящую к очистке конфигурации.'
     }
   },
   repair: {
