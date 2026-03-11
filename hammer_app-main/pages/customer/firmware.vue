@@ -4,17 +4,17 @@
       <h1 class="title">{{ $t('firmware.title') }}</h1>
       <div class="button-bar d-flex">
         <a
-          href="/file/upgrade_altcoin_ltc_D10.tar.gz"
+          href=""
           class="d-flex-center"
           >{{ $t('firmware.upgrade') }}</a
         >
         <a
-          href="/file/D10+_SD_Card_Firmware.zip"
+          href=""
           class="d-flex-center"
           >{{ $t('firmware.card') }}</a
         >
         <a
-          :href="locale === 'en' ? '/file/D10+_User_Guide.pdf' : '/file/D10+_User_Guide.docx'"
+          :href="locale === 'en' ? ''"
           class="d-flex-center"
           >{{ $t('firmware.guide') }}</a
         >
