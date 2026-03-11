@@ -120,6 +120,7 @@ export default {
 		download02: {
 			name: 'D10+ Firmware Upgrade',
 			description: 'Hammer D10+固件升级包',
+		}
 	},
 	repair: {
 		contact: '收货人',
