@@ -93,27 +93,6 @@ const tableData = [
     time: '2024-03-22',
     link: '/file/upgrade_altcoin_D12_rootfs.tar.gz',
   },
-{
-    name: i18n.t('firmware.download05.name'),
-    description: i18n.t('firmware.download05.description'),
-    size: '17.5MB',
-    time: '2023-06-02',
-    link: '/file/upgrade_altcoin_ltc_D10-20230528.tar.gz',
-  },
-  {
-    name: i18n.t('firmware.download03.name'),
-    description: i18n.t('firmware.download03.description'),
-    size: '37.8MB',
-    time: '2022-12-29',
-    link: '/file/D10+_SD_Card_Firmware.zip',
-  },
-  {
-    name: i18n.t('firmware.download04.name'),
-    description: i18n.t('firmware.download04.description'),
-    size: '0.6MB',
-    time: '2023-05-06',
-    link: locale.value === 'cn' ? '/file/Release-D10-CN.zip' : '/file/Release-D10-EN.zip',
-  },
 ]
 
 const download = (link: string) => {
