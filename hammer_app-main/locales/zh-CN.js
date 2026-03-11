@@ -120,10 +120,6 @@ export default {
 		download01: {
 			name: 'D10+用户手册',
 			description: 'Hammer D10+用户设置教程。从0开始设置Hammer D10+。',
-		},
-		download02: {
-			name: 'D10+ Firmware Upgrade',
-			description: 'Hammer D10+固件升级包',
 		}
 	},
 	repair: {
