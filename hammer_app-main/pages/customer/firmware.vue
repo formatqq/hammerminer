@@ -87,11 +87,11 @@ const i18n = useI18n()
 
 const tableData = [
   {
-    name: i18n.t('firmware.download06.name'),
-    description: i18n.t('firmware.download06.description'),
-    size: '17.1MB',
-    time: '2024-03-22',
-    link: '/file/upgrade_altcoin_D12_rootfs.tar.gz',
+    name: i18n.t(' '),
+    description: i18n.t(' '),
+    size: ' ',
+    time: ' ',
+    link: ' ',
   },
 ]
 
