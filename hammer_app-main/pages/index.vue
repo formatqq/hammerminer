@@ -32,6 +32,14 @@
         </section>
       </swiper-slide>
 
+      <swiper-slide>
+        <section
+          class="banner"
+          id="banner1-3"
+        >
+        </section>
+      </swiper-slide>
+
       
       
     
@@ -163,19 +171,19 @@ const paramsList = computed(() => {
       return [
         {
           id: '01',
-          paramsNum: 5,
+          paramsNum: 3,
         },
         {
           id: '02',
-          paramsNum: 3,
+          paramsNum: 4,
         },
         {
           id: '03',
-          paramsNum: 6,
+          paramsNum: 4,
         },
         {
           id: '04',
-          paramsNum: 3,
+          paramsNum: 7,
         },
       ]
   }
@@ -235,7 +243,10 @@ section {
     background: #1b1b1b url('/img/banner1-2.jpg');
     background-size: cover;
   }
-  
+      &#banner1-3 {
+    background: #1b1b1b url('/img/banner1-3.jpg');
+    background-size: cover;
+  }
   
 
   
