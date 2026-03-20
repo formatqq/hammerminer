@@ -141,7 +141,7 @@ const paramsList = computed(() => {
       return [
         {
           id: '01',
-          paramsNum: 3,
+          paramsNum: 2,
         },
         {
           id: '02',
@@ -175,6 +175,44 @@ const paramsList = computed(() => {
           paramsNum: 7,
         },
       ]     
+        case 3:
+      return [
+        {
+          id: '01',
+          paramsNum: 3,
+        },
+        {
+          id: '02',
+          paramsNum: 5,
+        },
+        {
+          id: '03',
+          paramsNum: 4,
+        },
+        {
+          id: '04',
+          paramsNum: 7,
+        },
+      ]    
+        case 4:
+      return [
+        {
+          id: '01',
+          paramsNum: 1,
+        },
+        {
+          id: '02',
+          paramsNum: 1,
+        },
+        {
+          id: '03',
+          paramsNum: 1,
+        },
+        {
+          id: '04',
+          paramsNum: 1,
+        },
+      ]    
     default:
       return [
         {
