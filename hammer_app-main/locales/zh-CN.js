@@ -46,7 +46,7 @@ export default {
 		params: '参数展示',
 		params01_title: '产品参数',
 		params01_1: '算力功效: 210MH/s,0.24J/Mh',
-		params01_2: '功耗:80W (Max)',
+		params01_2: '功耗: 80W (Max)',
 		params01_3: '算法: Scrypt (DOGE&LTC)',
 		params02_title: '环境要求',
 		params02_1: '工作温度: 0-+40℃',
