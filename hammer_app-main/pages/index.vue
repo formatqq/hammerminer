@@ -141,7 +141,7 @@ const paramsList = computed(() => {
       return [
         {
           id: '01',
-          paramsNum: 2,
+          paramsNum: 3,
         },
         {
           id: '02',
