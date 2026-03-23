@@ -99,7 +99,7 @@ export default {
 		params01_title: '产品参数',
 		params01_1: '算力功效: 6TH/s',
 		params01_2: '功耗: 120W (Max)',
-		params01_3: '算法: BTC,SOLO, PPLNS, PPS',
+		params01_3: '算法: SOLO, PPLNS, PPS,BTC',
 		params02_title: '环境要求',
 		params02_1: '工作温度: 0-+40℃',
 		params02_2: '储存温度: -20-+70℃',
