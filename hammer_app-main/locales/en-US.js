@@ -96,7 +96,7 @@ export default {
       params01_title: 'Product <br/>Specification',
       params01_1: 'Hashrate Efficiency:6TH/s',
       params01_2: 'Power Consumption: 120W (Max)',
-      params01_3: 'Algorithm: BTC,SOLO, PPLNS, PPS',
+      params01_3: 'Algorithm: SOLO, PPLNS, PPS,BTC',
       params02_title: 'Environment <br/>Requirement',
       params02_1: 'Operation temperature: 0-40%',
       params02_2: 'Storage temperature: -20°C to +70°C',
