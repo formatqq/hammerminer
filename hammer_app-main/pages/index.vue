@@ -48,6 +48,22 @@
         </section>
       </swiper-slide>
 
+                 <swiper-slide>
+        <section
+          class="banner"
+          id="banner1-5"
+        >
+        </section>
+      </swiper-slide>
+
+                 <swiper-slide>
+        <section
+          class="banner"
+          id="banner1-6"
+        >
+        </section>
+      </swiper-slide>
+
       
       
     
@@ -213,6 +229,44 @@ const paramsList = computed(() => {
           paramsNum: 1,
         },
       ]    
+             case 5:
+      return [
+        {
+          id: '01',
+          paramsNum: 1,
+        },
+        {
+          id: '02',
+          paramsNum: 1,
+        },
+        {
+          id: '03',
+          paramsNum: 1,
+        },
+        {
+          id: '04',
+          paramsNum: 1,
+        },
+      ]   
+             case 6:
+      return [
+        {
+          id: '01',
+          paramsNum: 1,
+        },
+        {
+          id: '02',
+          paramsNum: 1,
+        },
+        {
+          id: '03',
+          paramsNum: 1,
+        },
+        {
+          id: '04',
+          paramsNum: 1,
+        },
+      ]   
     default:
       return [
         {
@@ -296,6 +350,16 @@ section {
   
       &#banner1-4 {
     background: #1b1b1b url('/img/banner1-4.jpg');
+    background-size: cover;
+  }
+
+        &#banner1-5 {
+    background: #1b1b1b url('/img/banner1-5.jpg');
+    background-size: cover;
+  }
+
+        &#banner1-6 {
+    background: #1b1b1b url('/img/banner1-6.jpg');
     background-size: cover;
   }
   
