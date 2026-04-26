@@ -16,7 +16,7 @@ export default {
 	},
 	home: {
 	  params: 'Product Specification',
-          product0: {
+          product4: {
 		params: '参数展示',
 		params01_title: '产品参数',
 		params01_1: '算力功效：105MH/s,0.24J/Mh',
