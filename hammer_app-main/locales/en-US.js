@@ -18,6 +18,17 @@ export default {
     params: 'Product Specification',
     product0: {
       params01_title: 'Product <br/>Specification',
+      params01_1: 'Stay tuned for updates',
+      params02_title: 'Environment <br/>Requirement',
+      params02_1: 'Stay tuned for updates',
+      params03_title: 'Hardware <br/>Configuration',
+      params03_1: 'Stay tuned for updates',
+      params04_title: 'Power <br/>supply',
+      params04_1: 'Stay tuned for updates',
+    },
+
+    product1: {
+      params01_title: 'Product <br/>Specification',
       params01_1: 'Hashrate Efficiency:105 MH/s, 0.24 J/MH',
       params01_2: 'Power Consumption: 38W (Max)',
       params01_3: 'Algorithm: Scrypt (DOGE & LTC)',
@@ -42,7 +53,7 @@ export default {
       params04_7: 'Maximum Input Current: 3A'
     },
 
-    product1: {
+    product2: {
       params01_title: 'Product <br/>Specification',
       params01_1: 'Hashrate Efficiency:210 MH/s, 0.24 J/MH',
       params01_2: 'Power Consumption: 80W (Max)',
@@ -67,7 +78,7 @@ export default {
       params04_6: 'Rated Output Current: 15A',
       params04_7: 'Maximum Input Current: 7A',
     },
-    product2: {
+    product3: {
       params01_title: 'Product <br/>Specification',
       params01_1: 'Hashrate Efficiency:315 MH/s, 0.24 J/MH',
       params01_2: 'Power Consumption: 120W (Max)',
@@ -92,7 +103,7 @@ export default {
       params04_6: 'Rated Output Current: 15A',
       params04_7: 'Maximum Input Current: 10A',
     },
-     product3: {
+     product4: {
       params01_title: 'Product <br/>Specification',
       params01_1: 'Hashrate Efficiency:6TH/s',
       params01_2: 'Power Consumption: 120W (Max)',
@@ -118,7 +129,7 @@ export default {
       params04_7: 'Maximum Input Current: 10A',
     },
 
-      product4: {
+      product5: {
       params01_title: 'Product <br/>Specification',
       params01_1: 'Stay tuned for updates',
       params02_title: 'Environment <br/>Requirement',
