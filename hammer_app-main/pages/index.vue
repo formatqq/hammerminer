@@ -18,6 +18,14 @@
         >
         </section>
       </swiper-slide>
+
+          <swiper-slide>
+        <section
+          class="banner"
+          id="banner1-3"
+        >
+        </section>
+      </swiper-slide>
       
       
        <swiper-slide>
@@ -46,13 +54,7 @@
       </swiper-slide>
 
    
-     <swiper-slide>
-        <section
-          class="banner"
-          id="banner1-3"
-        >
-        </section>
-      </swiper-slide>
+ 
       
 
                  <swiper-slide>
@@ -335,6 +337,11 @@ section {
     background: #1b1b1b url('/img/banner-0.jpg');
     background-size: cover;
   }
+
+        &#banner1-3 {
+    background: #1b1b1b url('/img/banner1-3.jpg');
+    background-size: cover;
+  }
   
    &#banner01 {
     background: #1b1b1b url('/img/banner-1.jpg');
@@ -350,10 +357,7 @@ section {
     background: #1b1b1b url('/img/banner1-2.jpg');
     background-size: cover;
   }
-      &#banner1-3 {
-    background: #1b1b1b url('/img/banner1-3.jpg');
-    background-size: cover;
-  }
+
   
     &#banner1-4 {
     background: #1b1b1b url('/img/banner1-4.jpg');
