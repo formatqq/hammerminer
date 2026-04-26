@@ -319,7 +319,7 @@ section {
   color: #fff;
 
   &#banner01 {
-    background: #1b1b1b url('/img/banner-1jpg');
+    background: #1b1b1b url('/img/banner-1.jpg');
     background-size: cover;
   }
 
