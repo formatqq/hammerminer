@@ -40,13 +40,7 @@
         </section>
       </swiper-slide>
 
-           <swiper-slide>
-        <section
-          class="banner"
-          id="banner1-4"
-        >
-        </section>
-      </swiper-slide>
+      
 
                  <swiper-slide>
         <section
@@ -56,13 +50,7 @@
         </section>
       </swiper-slide>
 
-                 <swiper-slide>
-        <section
-          class="banner"
-          id="banner1-6"
-        >
-        </section>
-      </swiper-slide>
+  
 
       
       
@@ -348,21 +336,14 @@ section {
     background-size: cover;
   }
   
-      &#banner1-4 {
-    background: #1b1b1b url('/img/banner1-4.jpg');
-    background-size: cover;
-  }
+ 
 
         &#banner1-5 {
     background: #1b1b1b url('/img/banner1-5.jpg');
     background-size: cover;
   }
 
-        &#banner1-6 {
-    background: #1b1b1b url('/img/banner1-6.jpg');
-    background-size: cover;
-  }
-  
+
   .miner {
     width: 20vw;
   }
