@@ -117,16 +117,7 @@ export default {
       params04_6: 'Rated Output Current: 20A',
       params04_7: 'Maximum Input Current: 10A',
     },
-     product4: {
-      params01_title: 'Product <br/>Specification',
-      params01_1: 'Stay tuned for updates',
-      params02_title: 'Environment <br/>Requirement',
-      params02_1: 'Stay tuned for updates',
-      params03_title: 'Hardware <br/>Configuration',
-      params03_1: 'Stay tuned for updates',
-      params04_title: 'Power <br/>supply',
-      params04_1: 'Stay tuned for updates',
-    },
+
       product5: {
       params01_title: 'Product <br/>Specification',
       params01_1: 'Stay tuned for updates',
@@ -137,16 +128,7 @@ export default {
       params04_title: 'Power <br/>supply',
       params04_1: 'Stay tuned for updates',
     },
-      product6: {
-      params01_title: 'Product <br/>Specification',
-      params01_1: 'Stay tuned for updates',
-      params02_title: 'Environment <br/>Requirement',
-      params02_1: 'Stay tuned for updates',
-      params03_title: 'Hardware <br/>Configuration',
-      params03_1: 'Stay tuned for updates',
-      params04_title: 'Power <br/>supply',
-      params04_1: 'Stay tuned for updates',
-    },
+
     shop: 'Shop products&accessories here!',
   },
   footer: {
