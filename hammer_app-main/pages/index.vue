@@ -9,13 +9,15 @@
       :pagination="{ clickable: true }"
       @slideChange="slideChange"
     >
-      <swiper-slide>
+         <swiper-slide>
         <section
           class="banner"
-          id="banner01"
+          id="banner1-3"
         >
         </section>
       </swiper-slide>
+      
+   
        <swiper-slide>
         <section
           class="banner"
@@ -35,7 +37,7 @@
       <swiper-slide>
         <section
           class="banner"
-          id="banner1-3"
+          id="banner01"
         >
         </section>
       </swiper-slide>
