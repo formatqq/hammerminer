@@ -53,11 +53,8 @@
         </section>
       </swiper-slide>
 
-   
- 
-      
 
-                 <swiper-slide>
+      <swiper-slide>
         <section
           class="banner"
           id="banner55"
