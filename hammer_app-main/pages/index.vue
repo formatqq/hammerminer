@@ -45,7 +45,7 @@
                  <swiper-slide>
         <section
           class="banner"
-          id="banner1-5"
+          id="banner1-4"
         >
         </section>
       </swiper-slide>
@@ -338,7 +338,7 @@ section {
   
  
 
-        &#banner1-5 {
+        &#banner1-4 {
     background: #1b1b1b url('/img/banner1-5.jpg');
     background-size: cover;
   }
