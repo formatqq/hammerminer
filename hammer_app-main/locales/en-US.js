@@ -118,7 +118,7 @@ export default {
       params04_7: 'Maximum Input Current: 10A',
     },
 
-      product5: {
+      product4: {
       params01_title: 'Product <br/>Specification',
       params01_1: 'Stay tuned for updates',
       params02_title: 'Environment <br/>Requirement',
