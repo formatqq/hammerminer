@@ -16,7 +16,7 @@ export default {
 	},
 	home: {
 	  params: 'Product Specification',
-          product4: {
+          product0: {
 		params: '参数展示',
 		params01_title: '产品参数',
 		params01_1: '算力功效：105MH/s,0.24J/Mh',
@@ -120,7 +120,7 @@ export default {
 		params04_6: '额定输出电流：20A',
 		params04_7: '最大输入电流: 10A',
 	    },
-		product5: {
+		product4: {
 		params: '参数展示',
 		params01_title: '产品参数',
 		params01_1: '敬请关注更新',
