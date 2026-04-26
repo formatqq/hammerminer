@@ -22,7 +22,7 @@
           <swiper-slide>
         <section
           class="banner"
-          id="banner1-3"
+          id="banner11"
         >
         </section>
       </swiper-slide>
@@ -334,12 +334,12 @@ section {
   color: #fff;
   
  &#banner00 {
-    background: #1b1b1b url('/img/banner-0.jpg');
+    background: #1b1b1b url('/img/banner00.jpg');
     background-size: cover;
   }
 
-        &#banner1-3 {
-    background: #1b1b1b url('/img/banner1-3.jpg');
+        &#banner11 {
+    background: #1b1b1b url('/img/banner11.jpg');
     background-size: cover;
   }
   
