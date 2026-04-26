@@ -16,7 +16,18 @@ export default {
 	},
 	home: {
 	  params: 'Product Specification',
-          product0: {
+			product0: {
+		params: '参数展示',
+		params01_title: '产品参数',
+		params01_1: '敬请关注更新',
+		params02_title: '环境要求',
+		params02_1: '敬请关注更新',
+		params03_title: '配置',
+		params03_1: '敬请关注更新',
+		params04_title: '电源',
+		params04_1: '敬请关注更新',
+	    },
+          product1: {
 		params: '参数展示',
 		params01_title: '产品参数',
 		params01_1: '算力功效：105MH/s,0.24J/Mh',
@@ -42,7 +53,7 @@ export default {
 		params04_6: '额定输出电流: 5A',
 		params04_7: '最大输入电流: 3A',  
 	    },	  
-	  product1: {
+	  product2: {
 		params: '参数展示',
 		params01_title: '产品参数',
 		params01_1: '算力功效: 210MH/s,0.24J/Mh',
@@ -68,7 +79,7 @@ export default {
 		params04_6: '额定输出电流：15A',
 		params04_7: '最大输入电流: 7A',
 	    },
-	  product2: {
+	  product3: {
 		params: '参数展示',
 		params01_title: '产品参数',
 		params01_1: '算力功效: 315MH/s,0.24J/Mh',
@@ -94,7 +105,7 @@ export default {
 		params04_6: '额定输出电流：15A',
 		params04_7: '最大输入电流: 10A',
 	    },
-		product3: {
+		product4: {
 		params: '参数展示',
 		params01_title: '产品参数',
 		params01_1: '算力功效: 6TH/s',
@@ -120,7 +131,7 @@ export default {
 		params04_6: '额定输出电流：20A',
 		params04_7: '最大输入电流: 10A',
 	    },
-		product4: {
+		product5: {
 		params: '参数展示',
 		params01_title: '产品参数',
 		params01_1: '敬请关注更新',
