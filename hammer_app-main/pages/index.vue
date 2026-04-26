@@ -335,7 +335,7 @@ section {
     background-size: cover;
   }
 
-        &#banner11 {
+ &#banner11 {
     background: #1b1b1b url('/img/banner11.jpg');
     background-size: cover;
   }
