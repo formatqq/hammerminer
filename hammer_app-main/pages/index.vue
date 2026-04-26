@@ -320,8 +320,8 @@ section {
   height: 36vw;
   color: #fff;
 
-  &#banner01 {
-    background: #1b1b1b url('/img/banner-1.jpg');
+        &#banner1-4 {
+    background: #1b1b1b url('/img/banner1-5.jpg');
     background-size: cover;
   }
 
@@ -338,12 +338,12 @@ section {
     background-size: cover;
   }
   
- 
-
-        &#banner1-4 {
-    background: #1b1b1b url('/img/banner1-5.jpg');
+   &#banner01 {
+    background: #1b1b1b url('/img/banner-1.jpg');
     background-size: cover;
   }
+
+
 
 
   .miner {
