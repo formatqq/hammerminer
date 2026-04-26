@@ -9,10 +9,10 @@
       :pagination="{ clickable: true }"
       @slideChange="slideChange"
     >
-         <swiper-slide>
+       <swiper-slide>
         <section
           class="banner"
-          id="banner1-3"
+          id="banner01"
         >
         </section>
       </swiper-slide>
@@ -34,14 +34,14 @@
         </section>
       </swiper-slide>
 
-      <swiper-slide>
+   
+     <swiper-slide>
         <section
           class="banner"
-          id="banner01"
+          id="banner1-3"
         >
         </section>
       </swiper-slide>
-
       
 
                  <swiper-slide>
@@ -319,11 +319,11 @@ section {
   width: 100vw;
   height: 36vw;
   color: #fff;
-
-        &#banner1-4 {
-    background: #1b1b1b url('/img/banner1-5.jpg');
+   &#banner01 {
+    background: #1b1b1b url('/img/banner-1.jpg');
     background-size: cover;
   }
+    
 
   &#banner1-1 {
     background: #1b1b1b url('/img/banner1-1.jpg');
@@ -338,8 +338,8 @@ section {
     background-size: cover;
   }
   
-   &#banner01 {
-    background: #1b1b1b url('/img/banner-1.jpg');
+    &#banner1-4 {
+    background: #1b1b1b url('/img/banner1-5.jpg');
     background-size: cover;
   }
 
