@@ -75,7 +75,7 @@
       </el-table>
       <!-- 底部跳转下载链接 -->
 <div style="margin-top: 30px; text-align: center; font-size: 16px;">
-  <a href="https://github.com/HammerMiner/ " target="_blank" style="color: #0066cc; text-decoration: underline;">点击前往固件下载</a>
+  <a href="https://github.com/HammerMiner/ " target="_blank" style="color: #0066cc; text-decoration: underline;">Click to Download Firmware</a>
 </div>
     </section>
   </div>
